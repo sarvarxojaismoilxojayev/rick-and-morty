@@ -1,0 +1,78 @@
+.items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.catalog {
+  border: 2px rgb(7, 157, 181) solid;
+  border-radius: 10px;
+  max-width: 265px;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.inf {
+  padding: 10px 20px;
+}
+
+.location {
+  font-size: 14px;
+  color: #5a5959;
+}
+
+.green {
+  background: green;
+  color: white;
+  font-size: 15px;
+  padding: 7px 20px;
+  border-radius: 6px;
+  position: relative;
+  bottom: 250px;
+  left: 150px;
+}
+.dead {
+  background: red;
+  color: white;
+  font-size: 15px;
+  padding: 7px 20px;
+  border-radius: 6px;
+  position: relative;
+  bottom: 250px;
+  left: 150px;
+}
+.uncown {
+  background: gold;
+  color: white;
+  font-size: 15px;
+  padding: 7px 20px;
+  border-radius: 6px;
+  position: relative;
+  bottom: 250px;
+  left: 120px;
+}
+
+.img-item {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.Maps {
+    margin-top: 40px;
+    gap: 20px;
+}
+
+.loader {
+    margin: auto;
+    display: block;
+    width: 100px;
+    height: 100px;
+}
+
+.catalog-two {
+  margin: auto;
+  margin-top: 30px;
+}

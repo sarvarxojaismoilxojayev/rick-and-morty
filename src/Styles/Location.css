@@ -1,0 +1,13 @@
+.total {
+    gap: 30px;
+    margin-top: 70px;
+}
+
+.select {
+    width: 250px;
+}
+
+.b2 {
+    flex-wrap: wrap;
+    gap: 20px;
+}
