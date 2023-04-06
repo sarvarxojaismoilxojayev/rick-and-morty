@@ -11,3 +11,25 @@
     flex-wrap: wrap;
     gap: 20px;
 }
+
+.banner {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.discription {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.planet {
+    display: block;
+    margin-top: 5px;
+    font-size: 20px;
+}
